@@ -6,7 +6,7 @@ Contains my basic bash aliases
 ## Install
 
 1. Move to your home dir `cd ~`
-2. Check out a clone of this repo: ``
+2. TODO
 3. Insert the following lines in `~/.bash_profile`
 
     ```
