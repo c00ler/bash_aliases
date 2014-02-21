@@ -7,9 +7,9 @@ Contains my basic bash aliases
 
 1. Move to your home dir `cd ~`
 2. Check out a clone of this repo: ``
-2. Insert the following lines in `~/.bash_profile`
+3. Insert the following lines in `~/.bash_profile`
 
-````
+```
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
@@ -18,6 +18,6 @@ Contains my basic bash aliases
 if [ -f ~/bash_aliases/MacOS/.bash_aliases ]; then
 . ~/bash_aliases/MacOS/.bash_aliases
 fi
-````
+```
 
-3. Run `source ~/.bash_profile`
+4. Run `source ~/.bash_profile`
